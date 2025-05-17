@@ -208,7 +208,7 @@ parser.add_argument("--theta",
                     help="weight for long-tail prediction loss")
 parser.add_argument("--theta_long",
                     type=float, 
-                    default=0, 
+                    default=0.05, 
                     help='weight for prediction long-tail logits fusion')
 parser.add_argument("--theta_short",
                     type=float, 
@@ -270,7 +270,7 @@ parser.add_argument("--log",
 
 # ablation study
 parser.add_argument("--ablation_mode", 
-                    default="top1", 
+                    default="mean", 
                     choices=["mean", "top1", "weighted_mean"], 
                     type=str)
 
