@@ -24,7 +24,7 @@ We extend the original [LLM-ESR](https://github.com/liuqidong07/LLM-ESR) framewo
 
 ---
 
-## 📚 Citation
+## Citation
 
 If you find this project helpful, please consider citing the original work:
 
