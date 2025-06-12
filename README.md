@@ -2,7 +2,7 @@
 
 This is a collaborative final project for **CSCI-SHU 381: Recommendation Systems** and **DATS-SHU 369: Machine Learning with Graphs**, supervised by **Prof. Hongyi Wen** and **Prof. Qiaoyu Tan** at NYU Shanghai.
 
-We extend the original [LLM-ESR](https://github.com/liuqidong07/LLM-ESR) framework to improve sequential recommendation performance on long-tail users and items.
+We extend the original [LLM-ESR](https://github.com/liuqidong07/LLM-ESR) framework to improve sequential recommendation performance on users and items.
 
 ---
 
